@@ -1,0 +1,7 @@
+C:\Elvin\MentoringProgram\TaskMulth2\bin\Debug\TaskMulth2.exe.config
+C:\Elvin\MentoringProgram\TaskMulth2\bin\Debug\TaskMulth2.exe
+C:\Elvin\MentoringProgram\TaskMulth2\bin\Debug\TaskMulth2.pdb
+C:\Elvin\MentoringProgram\TaskMulth2\obj\Debug\TaskMulth2.csprojResolveAssemblyReference.cache
+C:\Elvin\MentoringProgram\TaskMulth2\obj\Debug\TaskMulth2.csproj.CoreCompileInputs.cache
+C:\Elvin\MentoringProgram\TaskMulth2\obj\Debug\TaskMulth2.exe
+C:\Elvin\MentoringProgram\TaskMulth2\obj\Debug\TaskMulth2.pdb

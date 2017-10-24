@@ -1,0 +1,7 @@
+C:\Elvin\MentoringProgram\TaskMulth4\obj\Debug\TaskMulth4.csproj.CoreCompileInputs.cache
+C:\Elvin\MentoringProgram\TaskMulth4\bin\Debug\TaskMulth4.exe.config
+C:\Elvin\MentoringProgram\TaskMulth4\bin\Debug\TaskMulth4.exe
+C:\Elvin\MentoringProgram\TaskMulth4\bin\Debug\TaskMulth4.pdb
+C:\Elvin\MentoringProgram\TaskMulth4\obj\Debug\TaskMulth4.exe
+C:\Elvin\MentoringProgram\TaskMulth4\obj\Debug\TaskMulth4.pdb
+C:\Elvin\MentoringProgram\TaskMulth4\obj\Debug\TaskMulth4.csprojResolveAssemblyReference.cache

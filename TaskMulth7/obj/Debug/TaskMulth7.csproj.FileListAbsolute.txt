@@ -1,0 +1,6 @@
+C:\Elvin\MentoringProgram\TaskMulth7\bin\Debug\TaskMulth7.exe.config
+C:\Elvin\MentoringProgram\TaskMulth7\bin\Debug\TaskMulth7.exe
+C:\Elvin\MentoringProgram\TaskMulth7\bin\Debug\TaskMulth7.pdb
+C:\Elvin\MentoringProgram\TaskMulth7\obj\Debug\TaskMulth7.csproj.CoreCompileInputs.cache
+C:\Elvin\MentoringProgram\TaskMulth7\obj\Debug\TaskMulth7.exe
+C:\Elvin\MentoringProgram\TaskMulth7\obj\Debug\TaskMulth7.pdb
