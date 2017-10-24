@@ -14,7 +14,7 @@ namespace TaskMulth5
 
 		static void Main(string[] args)
 		{
-			Semaphore semaphore = new Semaphore(10, 10);
+			Semaphore semaphore = new Semaphore(0, 10);
 			ThreadPool.QueueUserWorkItem((x) => { Continue(10, semaphore); });
 			WaitHandle.WaitAll(new WaitHandle[]{semaphore});
 		}
@@ -23,11 +23,11 @@ namespace TaskMulth5
 		{
 			if (num > 0)
 			{
-				semaphore.WaitOne();
+				//semaphore.WaitOne();
 				Console.WriteLine(num);
 				num--;
 				ThreadPool.QueueUserWorkItem((x) => { Continue(num, semaphore); });
-				semaphore.Release();
+				//semaphore.Release();
 			}
 		}
 	}
