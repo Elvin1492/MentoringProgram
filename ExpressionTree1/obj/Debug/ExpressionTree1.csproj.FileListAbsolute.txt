@@ -1,0 +1,7 @@
+C:\Elvin\Git\MentoringProgram\ExpressionTree1\bin\Debug\ExpressionTree1.exe.config
+C:\Elvin\Git\MentoringProgram\ExpressionTree1\bin\Debug\ExpressionTree1.exe
+C:\Elvin\Git\MentoringProgram\ExpressionTree1\bin\Debug\ExpressionTree1.pdb
+C:\Elvin\Git\MentoringProgram\ExpressionTree1\obj\Debug\ExpressionTree1.csprojResolveAssemblyReference.cache
+C:\Elvin\Git\MentoringProgram\ExpressionTree1\obj\Debug\ExpressionTree1.csproj.CoreCompileInputs.cache
+C:\Elvin\Git\MentoringProgram\ExpressionTree1\obj\Debug\ExpressionTree1.exe
+C:\Elvin\Git\MentoringProgram\ExpressionTree1\obj\Debug\ExpressionTree1.pdb

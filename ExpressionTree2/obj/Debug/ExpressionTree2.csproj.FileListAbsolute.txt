@@ -1,0 +1,6 @@
+C:\Elvin\Git\MentoringProgram\ExpressionTree2\bin\Debug\ExpressionTree2.exe.config
+C:\Elvin\Git\MentoringProgram\ExpressionTree2\bin\Debug\ExpressionTree2.exe
+C:\Elvin\Git\MentoringProgram\ExpressionTree2\bin\Debug\ExpressionTree2.pdb
+C:\Elvin\Git\MentoringProgram\ExpressionTree2\obj\Debug\ExpressionTree2.csproj.CoreCompileInputs.cache
+C:\Elvin\Git\MentoringProgram\ExpressionTree2\obj\Debug\ExpressionTree2.exe
+C:\Elvin\Git\MentoringProgram\ExpressionTree2\obj\Debug\ExpressionTree2.pdb
