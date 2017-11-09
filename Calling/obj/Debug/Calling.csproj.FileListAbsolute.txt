@@ -1,0 +1,9 @@
+C:\Elvin\Git\MentoringProgram\Calling\bin\Debug\Calling.exe.config
+C:\Elvin\Git\MentoringProgram\Calling\bin\Debug\Calling.exe
+C:\Elvin\Git\MentoringProgram\Calling\bin\Debug\Calling.pdb
+C:\Elvin\Git\MentoringProgram\Calling\bin\Debug\UnmanagedTask.dll
+C:\Elvin\Git\MentoringProgram\Calling\bin\Debug\UnmanagedTask.pdb
+C:\Elvin\Git\MentoringProgram\Calling\obj\Debug\Calling.csprojResolveAssemblyReference.cache
+C:\Elvin\Git\MentoringProgram\Calling\obj\Debug\Calling.csproj.CoreCompileInputs.cache
+C:\Elvin\Git\MentoringProgram\Calling\obj\Debug\Calling.exe
+C:\Elvin\Git\MentoringProgram\Calling\obj\Debug\Calling.pdb

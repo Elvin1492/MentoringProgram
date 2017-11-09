@@ -1,0 +1,6 @@
+C:\Elvin\Git\MentoringProgram\UnmanagedTask\bin\Debug\UnmanagedTask.dll
+C:\Elvin\Git\MentoringProgram\UnmanagedTask\bin\Debug\UnmanagedTask.pdb
+C:\Elvin\Git\MentoringProgram\UnmanagedTask\obj\Debug\UnmanagedTask.csprojResolveAssemblyReference.cache
+C:\Elvin\Git\MentoringProgram\UnmanagedTask\obj\Debug\UnmanagedTask.csproj.CoreCompileInputs.cache
+C:\Elvin\Git\MentoringProgram\UnmanagedTask\obj\Debug\UnmanagedTask.dll
+C:\Elvin\Git\MentoringProgram\UnmanagedTask\obj\Debug\UnmanagedTask.pdb
