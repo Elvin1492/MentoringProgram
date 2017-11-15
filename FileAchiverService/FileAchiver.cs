@@ -3,6 +3,7 @@ using System.Messaging;
 using System.ServiceProcess;
 using System.Threading;
 using System.Threading.Tasks;
+using MultiThreadResizer;
 
 namespace FileAchiverService
 {
