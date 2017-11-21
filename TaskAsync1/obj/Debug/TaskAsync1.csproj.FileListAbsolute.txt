@@ -8,3 +8,7 @@ C:\Users\Aysel\Documents\Visual Studio 2017\Projects\MentoringProgram\TaskAsync1
 C:\Elvin\Git\MentoringProgram\TaskAsync1\bin\Debug\TaskAsync1.exe.config
 C:\Elvin\Git\MentoringProgram\TaskAsync1\obj\Debug\TaskAsync1.exe
 C:\Elvin\Git\MentoringProgram\TaskAsync1\obj\Debug\TaskAsync1.pdb
+C:\Elvin\Git\MentoringProgram\TaskAsync1\bin\Debug\TaskAsync1.exe
+C:\Elvin\Git\MentoringProgram\TaskAsync1\bin\Debug\TaskAsync1.pdb
+C:\Elvin\Git\MentoringProgram\TaskAsync1\obj\Debug\TaskAsync1.csprojResolveAssemblyReference.cache
+C:\Elvin\Git\MentoringProgram\TaskAsync1\obj\Debug\TaskAsync1.csproj.CoreCompileInputs.cache

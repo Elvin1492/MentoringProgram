@@ -1,0 +1,2 @@
+C:\Elvin\Git\MentoringProgram\MessageQueues.UI.Web\obj\Debug\MessageQueues.UI.Web.csprojResolveAssemblyReference.cache
+C:\Elvin\Git\MentoringProgram\MessageQueues.UI.Web\obj\Debug\MessageQueues.UI.Web.csproj.CoreCompileInputs.cache

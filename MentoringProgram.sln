@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2008
+VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MultiThreading", "MultiThreading", "{3A3318E8-C16E-45F1-8947-5A6B42078DCD}"
 EndProject
@@ -40,6 +40,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. WindowsServices", "4. WindowsServices", "{037C8B38-4DCE-4E3F-B284-B0E91F8B35CD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileAchiverService", "FileAchiverService\FileAchiverService.csproj", "{034D40C5-0257-4C85-A04E-CE969CF0CDC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Message queues", "5. Message queues", "{6B32D7AE-136E-4EB3-87F9-772DBF95BA70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageQueues.UI.Web", "MessageQueues.UI.Web\MessageQueues.UI.Web.csproj", "{5E346943-613F-4861-9198-8175BDF302FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -107,6 +111,10 @@ Global
 		{034D40C5-0257-4C85-A04E-CE969CF0CDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{034D40C5-0257-4C85-A04E-CE969CF0CDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{034D40C5-0257-4C85-A04E-CE969CF0CDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E346943-613F-4861-9198-8175BDF302FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E346943-613F-4861-9198-8175BDF302FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E346943-613F-4861-9198-8175BDF302FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E346943-613F-4861-9198-8175BDF302FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -127,6 +135,7 @@ Global
 		{FDEFEEC5-BB20-47AE-9AF0-A1A5C6A195E0} = {93806EBB-83C0-4E26-8EDF-2011CBADA29B}
 		{D51180A0-573F-42A8-A014-DD653550ABC5} = {93806EBB-83C0-4E26-8EDF-2011CBADA29B}
 		{034D40C5-0257-4C85-A04E-CE969CF0CDC1} = {037C8B38-4DCE-4E3F-B284-B0E91F8B35CD}
+		{5E346943-613F-4861-9198-8175BDF302FD} = {6B32D7AE-136E-4EB3-87F9-772DBF95BA70}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {98DB8DAD-EE28-4FB0-B009-3AE48C5A3E3E}

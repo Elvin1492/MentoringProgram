@@ -1,0 +1,7 @@
+C:\Elvin\Git\MentoringProgram\LinqProvider1\bin\Debug\LinqProvider1.exe.config
+C:\Elvin\Git\MentoringProgram\LinqProvider1\bin\Debug\LinqProvider1.exe
+C:\Elvin\Git\MentoringProgram\LinqProvider1\bin\Debug\LinqProvider1.pdb
+C:\Elvin\Git\MentoringProgram\LinqProvider1\obj\Debug\LinqProvider1.csprojResolveAssemblyReference.cache
+C:\Elvin\Git\MentoringProgram\LinqProvider1\obj\Debug\LinqProvider1.csproj.CoreCompileInputs.cache
+C:\Elvin\Git\MentoringProgram\LinqProvider1\obj\Debug\LinqProvider1.exe
+C:\Elvin\Git\MentoringProgram\LinqProvider1\obj\Debug\LinqProvider1.pdb

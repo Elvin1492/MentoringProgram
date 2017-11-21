@@ -5,3 +5,10 @@ C:\Elvin\MentoringProgram\TaskMulth1\obj\Debug\TaskMulth1.csprojResolveAssemblyR
 C:\Elvin\MentoringProgram\TaskMulth1\obj\Debug\TaskMulth1.csproj.CoreCompileInputs.cache
 C:\Elvin\MentoringProgram\TaskMulth1\obj\Debug\TaskMulth1.exe
 C:\Elvin\MentoringProgram\TaskMulth1\obj\Debug\TaskMulth1.pdb
+C:\Elvin\Git\MentoringProgram\TaskMulth1\bin\Debug\TaskMulth1.exe.config
+C:\Elvin\Git\MentoringProgram\TaskMulth1\bin\Debug\TaskMulth1.exe
+C:\Elvin\Git\MentoringProgram\TaskMulth1\bin\Debug\TaskMulth1.pdb
+C:\Elvin\Git\MentoringProgram\TaskMulth1\obj\Debug\TaskMulth1.csprojResolveAssemblyReference.cache
+C:\Elvin\Git\MentoringProgram\TaskMulth1\obj\Debug\TaskMulth1.csproj.CoreCompileInputs.cache
+C:\Elvin\Git\MentoringProgram\TaskMulth1\obj\Debug\TaskMulth1.exe
+C:\Elvin\Git\MentoringProgram\TaskMulth1\obj\Debug\TaskMulth1.pdb

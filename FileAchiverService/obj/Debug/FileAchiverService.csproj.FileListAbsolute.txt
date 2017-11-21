@@ -1,0 +1,2 @@
+C:\Elvin\Git\MentoringProgram\FileAchiverService\obj\Debug\FileAchiverService.csprojResolveAssemblyReference.cache
+C:\Elvin\Git\MentoringProgram\FileAchiverService\obj\Debug\FileAchiverService.csproj.CoreCompileInputs.cache
